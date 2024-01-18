@@ -1,0 +1,5 @@
+export const INCREMENT = "INCREMENT"
+export const DECREMENT = "DECREMENT"
+export const THEME = "THEME"
+export const DISAUBLE_BTN = "DISAUBLE_BTN"
+export const ENABLE_BTN = "ENABLE_BTN"
